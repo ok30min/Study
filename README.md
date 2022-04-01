@@ -2,9 +2,8 @@
 * 대학원 재학 중에 공부하며 만들었던 자료들입니다.
 
 ## Paper_Review
+* Paper_Review 폴더는 읽었던 논문들에 대한 정리가 담겨져 있습니다.
 
-### Transformer
-#### Decision Transformer : Reinforcement Learning via Sequence Modeling
-* 논문 원본 : https://arxiv.org/abs/2106.01345
-* Github : https://github.com/kzl/decision-transformer
-* 벨로그 작성글 : https://velog.io/@aioptlab/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling
+## RL_Study
+* RL_Study는 강화학습을 공부하며 만들었던 자료들이 담겨있습니다.
+
