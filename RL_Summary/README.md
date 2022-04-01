@@ -1,7 +1,7 @@
 # Reinforcement_Learning
 
 ## DQN
-* Preview : 
+* Preview : https://github.com/ok30min/Study/blob/main/RL_Summary/DQN.md
 * PPT : 
 
 ## A2C & DDPG
