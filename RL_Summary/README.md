@@ -9,5 +9,5 @@
 * PPT : 
 
 ## TRPO & PPO
-* Preview : 
+* Preview : https://github.com/ok30min/Study/blob/main/RL_Summary/TRPO%26PPO.md
 * PPT : 
