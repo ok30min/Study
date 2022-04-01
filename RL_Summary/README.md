@@ -1,4 +1,13 @@
 # Reinforcement_Learning
 
-## RL_Summary
-* 각 .md 파일들은 동일한 파일명의 ppt의 내용이 그대로 담겨져있습니다.
+## DQN
+* Preview : 
+* PPT : 
+
+## A2C & DDPG
+* Preview : 
+* PPT : 
+
+## TRPO & PPO
+* Preview : 
+* PPT : 
