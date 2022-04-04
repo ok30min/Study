@@ -290,9 +290,13 @@ n + 2k개의 변수와 m + 2k개의 제약조건을 갖는 2차 원뿔 문제(�
 
 # Reference
 [1] Soyster, A. L. Convex programming with set-inclusive constraints and applications to inexact linear programming. Oper. Res. 1973, 21, 1154.
+
 [2] Ben-Tal, A.; Nemirovski, A. Robust solutions of Linear Programming problems contaminated with uncertain data. Math. Prog. 2000, 88, 411.
+
 [3] Bertsimas, D.; Sim, M. Robust Discrete optimization and Network Flows. Math. Prog. 2003, 98, 49.
+
 [4]  Ierapetritou, M. G.; Floudas, C. A. Effective continuous-time formulation for short-term scheduling. 1. Multipurpose batch processes. Ind. Eng. Chem. Res. 1998, 37, 4341.
+
 [5]  Wu, D.; Ierapetritou, M. G. Decomposition approaches for the efficient solution of short-term scheduling problems. Comput. Chem. Eng. 2003, 27, 1261.
 
 [6] Lin, X.; Janak, S. L.; Floudas, C. A. A new robust optimization approach for scheduling under uncertainty: I. bounded uncertainty. Comput. Chem. Eng. 2004, 28, 1069.
