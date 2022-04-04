@@ -146,9 +146,13 @@ n + 2k개의 변수와 m + 2k개의 제약조건을 갖는 2차 원뿔 문제(�
 ![](https://media.vlpt.us/images/aioptlab/post/20377dec-f829-494b-ad13-41fe062f7fdc/image.png)
 
 (12) : n시점에서 각 단위의 작업을 하나만 수행 가능하다.
+
 (13) : 물질적 균형
+
 (14), (15) : 생산 단위의 저장 및 용량 제한
+
 (16) : Demand 제약
+
 (17)~(24) : 생산 단위에서 Task 지속시간 및 시퀀스 요건에 따른 시간제한
 
 ## 1. Price Uncertainty
