@@ -9,4 +9,4 @@
 
 ### DCPR-GAN: Dental Crown Prosthesis Restoration Using Two-Stage Generative Adversarial Networks
 * 논문 원본 : https://ieeexplore.ieee.org/abstract/document/9568708
-* * velog Review : https://velog.io/@aioptlab/DCPR-GAN-Dental-Crown-Prosthesis-Restoration-Using-Two-Stage-Generative-Adversarial-Networks
+* velog Review : https://velog.io/@aioptlab/DCPR-GAN-Dental-Crown-Prosthesis-Restoration-Using-Two-Stage-Generative-Adversarial-Networks
