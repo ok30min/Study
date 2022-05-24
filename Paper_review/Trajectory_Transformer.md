@@ -1,3 +1,5 @@
+### 아직 작성 중입니다...
+------------
 이 글은 논문 **Offline Reinforcement Learning as One Big Sequence Modeling Problem**에 대한 설명입니다. 논문 원본에 대한 링크는 아래에 적어놓았습니다.
 
 논문 원본 : https://arxiv.org/abs/2106.02039
