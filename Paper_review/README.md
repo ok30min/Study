@@ -11,6 +11,6 @@
 * 논문 원본 : https://ieeexplore.ieee.org/abstract/document/9568708
 * velog Review : https://velog.io/@aioptlab/DCPR-GAN-Dental-Crown-Prosthesis-Restoration-Using-Two-Stage-Generative-Adversarial-Networks
 
-### Offline Reinforcement Learning as One Big Sequence Modeling Problem
-* 논문 원본 : 
+### Offline Reinforcement Learning as One Big Sequence Modeling Problem (2021)
+* 논문 원본 : https://arxiv.org/abs/2106.02039
 * velog Review : https://velog.io/@aioptlab/Offline-Reinforcement-Learning-as-One-Big-Sequence-Modeling-Problem
