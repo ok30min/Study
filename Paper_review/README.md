@@ -12,3 +12,7 @@
 
 ### Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (2021)
 * 논문 원본 : https://arxiv.org/abs/2008.00951
+
+### Deep Residual Learning for Image Recognition (2015)
+* 논문 원본 : https://arxiv.org/abs/1512.03385
+
