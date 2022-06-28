@@ -1,14 +1,15 @@
 이 글은 논문 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (2021)** 에 대한 설명입니다. 논문 원본에 대한 링크는 아래에 적어놓았습니다.
 
 논문 원본 : https://arxiv.org/abs/2008.00951
+
 git : https://eladrich.github.io/pixel2style2pixel/
 
 ![](https://velog.velcdn.com/images/aioptlab/post/de9f735d-b95c-4728-88be-cadc56e9a037/image.png)
 
 # Abstract
-* Image-to-Image 변환 프레임워크인 **pixel2style2pixel(psp)**를 제안한다.
+* Image-to-Image 변환 프레임워크인 **pixel2style2pixel(psp)** 를 제안한다.
 * 일련의 Style vectors를 직접 생성하는 새로운 Encoder와 사전 훈련된 StyleGAN Generator를 사용한다.
-* Encoder는 추가 최적화 없이 **실제 이미지를 W+**로 Embedding 할 수 있다.
+* Encoder는 추가 최적화 없이 **실제 이미지를 W+** 로 Embedding 할 수 있다.
 * Encoder를 활용하여 이미지 간 변환 작업을 직접 해결하여 일부 입력 도메인에서 잠재 도메인으로 인코딩 문제를 정의할 것을 제안한다.
 * StyleGAN을 통해 변환 작업을 해결하는 것이 상대가 필요하지 않기 때문에 훈련 과정을 상당히 단순화하고, 픽셀 간 대응 없이 작업을 해결하는데 더 좋으며, 스타일의 재샘플링을 통해 Multi-modal synthesis를 지원한다는 것을 보여준다.
 * SOTA와 비교했을 때, **facial image-to-image translation tasks에서 psp의 잠재력을 입증**했으며, 이것이 확장될 수 있음을 보여준다.
