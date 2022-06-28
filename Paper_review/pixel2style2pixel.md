@@ -198,7 +198,11 @@ git : https://eladrich.github.io/pixel2style2pixel/
 
 # References
 [1] Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, and Timo Aila. "Training generative adversarial networks with limited data". In Proc. NeurIPS, 2020.
+
 [2] Tero Karras, Samuli Laine, and Timo Aila. "A style-based generator architecture for generative adversarial networks". In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 4401–4410, 2019.
+
 [3]  Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel CohenOr, and Hao Zhang. "Ganhopper: Multi-hop gan for unsupervised image-to-image translation". arXiv preprint arXiv:2002.10102, 2020.
+
 [4] Richard Zhang, Phillip Isola, Alexei A Efros, Eli Shechtman, and Oliver Wang. "The unreasonable effectiveness of deep features as a perceptual metric". In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 586–595, 2018.
+
 [5] Jiankang Deng, Jia Guo, Niannan Xue, and Stefanos Zafeiriou. "Arcface: Additive angular margin loss for deep face recognition". In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 4690–4699, 2019.
