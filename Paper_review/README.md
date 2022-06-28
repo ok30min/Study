@@ -9,3 +9,6 @@
 
 ### Offline Reinforcement Learning as One Big Sequence Modeling Problem (2021)
 * 논문 원본 : https://arxiv.org/abs/2106.02039
+
+### Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (2021)
+* 논문 원본 : https://arxiv.org/abs/2008.00951
