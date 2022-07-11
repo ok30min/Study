@@ -16,3 +16,5 @@
 ### Deep Residual Learning for Image Recognition (2015)
 * 논문 원본 : https://arxiv.org/abs/1512.03385
 
+### Analyzing and Improving the Image Quality of StyleGAN (2020)
+* 논문 원본 : https://arxiv.org/abs/1912.04958
