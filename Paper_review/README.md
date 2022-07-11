@@ -7,14 +7,14 @@
 ### DCPR-GAN: Dental Crown Prosthesis Restoration Using Two-Stage Generative Adversarial Networks (2022)
 * 논문 원본 : https://ieeexplore.ieee.org/abstract/document/9568708
 
-### Offline Reinforcement Learning as One Big Sequence Modeling Problem (2021)
+### Offline Reinforcement Learning as One Big Sequence Modeling Problem (2021, Trajectory Transformer)  
 * 논문 원본 : https://arxiv.org/abs/2106.02039
 
-### Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (2021)
+### Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (2021, pixel2Style2pixel) 
 * 논문 원본 : https://arxiv.org/abs/2008.00951
 
-### Deep Residual Learning for Image Recognition (2015)
+### Deep Residual Learning for Image Recognition (2015, ResNet)
 * 논문 원본 : https://arxiv.org/abs/1512.03385
 
-### Analyzing and Improving the Image Quality of StyleGAN (2020)
+### Analyzing and Improving the Image Quality of StyleGAN (2020, StyleGAN2)
 * 논문 원본 : https://arxiv.org/abs/1912.04958
