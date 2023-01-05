@@ -1,4 +1,4 @@
-이 글은 논문 Lenovo Schedules Laptop Manufacturing Using Deep Reinforcement Learning (2022) 에 대한 설명입니다. 논문 원본에 대한 링크는 아래에 적어놓았습니다.
+이 글은 논문 **Lenovo Schedules Laptop Manufacturing Using Deep Reinforcement Learning (2022)** 에 대한 설명입니다. 논문 원본에 대한 링크는 아래에 적어놓았습니다.
 
 논문 원본 : https://pubsonline.informs.org/doi/abs/10.1287/inte.2021.1109?journalCode=ijaa
 
