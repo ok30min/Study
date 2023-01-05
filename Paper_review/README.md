@@ -11,6 +11,7 @@
 ## Scheduling
 ### Lenovo Schedules Laptop Manufacturing Using Deep Reinforcement Learning (2022)
 * 논문 원본 : https://pubsonline.informs.org/doi/abs/10.1287/inte.2021.1109?journalCode=ijaa
+* [Lenovo Scheduler.md](https://github.com/ok30min/Study/blob/main/Paper_review/Lenovo_Scheduler.md)
 
 ## Image
 ### Deep Residual Learning for Image Recognition (2015)
